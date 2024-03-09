@@ -1,5 +1,5 @@
-#include "commands.h"
 #include <stdio.h>
+#include "commands.h"
 
 void concrete_command_execute(void) {
     printf("Executing concrete command...\n");
