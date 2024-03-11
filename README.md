@@ -1,6 +1,6 @@
 # C Corner
 
-Welcome to C Corner, My C programming playground repository! This repository is a space for My to experiment, learn, and practice your C programming skills.
+Welcome to C Corner, My C programming playground repository! This repository is a space to experiment, learn, and practice your C programming skills.
 
 ## Introduction
 
