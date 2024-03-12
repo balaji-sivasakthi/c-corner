@@ -7,4 +7,4 @@ typedef struct {
 
 void execute_command(Commands *cmd);
 
-#endif /* COMMAND_H S*/
+#endif /* COMMANDS_H */
